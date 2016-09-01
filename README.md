@@ -1,2 +1,2 @@
 # RabidLootFilter
-Loot FIlter by RabidMonk
+Will add more to this later.
