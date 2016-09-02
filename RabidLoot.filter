@@ -278,7 +278,7 @@ Show
 
 New 2.4.0 Bases To Show
 Show
-    Rarity >= Magic
+    Rarity <= Magic
     BaseType "Bone Helmet" "Two-Toned Boots" "Spiked Gloves" "Gripped Gloves" "Fingerless Silk Gloves"
     SetTextColor 255 255 119
     SetBackgroundColor 0 0 0
